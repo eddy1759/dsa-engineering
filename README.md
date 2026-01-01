@@ -69,7 +69,6 @@ dsa-engineering/
 
 Each problem must include:
 
-- Problem reference (LeetCode ID + link)
 - Identified pattern
 - Time & space complexity
 - Final optimized solution
@@ -143,7 +142,7 @@ Key Issue:
 - Incorrect window shrink condition
 ```
 
-### `mistakes.md`
+### `mistakes_lessons.md`
 
 Tracks **root causes only**.
 
