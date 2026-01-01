@@ -1,0 +1,15 @@
+{
+  "name": "dsa-engineering",
+  "version": "1.0.0",
+  "description": "A disciplined, pattern-driven approach to mastering **Data Structures & Algorithms** using **TypeScript** and **LeetCode**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}
