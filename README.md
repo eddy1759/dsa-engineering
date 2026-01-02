@@ -13,7 +13,6 @@ It is a **system** for building algorithmic thinking, recall speed, and intervie
 - Develop fast problem recognition
 - Write clean, explainable solutions
 - Build a public, reviewable proof of competence
-- Be interview-ready for mid → senior backend roles
 
 ---
 
@@ -108,6 +107,11 @@ Each problem must include:
     - Every problem must be solved in TypeScript
     - Secondary languages are optional and used only for comparison or speed
     - Folder structure remains pattern-first, not language-first
+
+  ### Completed Patterns
+  - Array Traversal
+  - Hash Map (Complement Lookup)
+  - Two Pointers
 
 ---
 
