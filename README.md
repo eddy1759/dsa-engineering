@@ -112,6 +112,7 @@ Each problem must include:
   - Array Traversal
   - Hash Map (Complement Lookup)
   - Two Pointers
+  - Sliding Windows
 
 ---
 
