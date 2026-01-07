@@ -14,6 +14,7 @@
 | Brute Force   | 3Sum                 | patterns/arrays/three-sum-brute.ts     | patterns/arrays/three-sum-brute.py       | O(n³), baseline |
 | Two Pointers  | 3Sum                 | patterns/two-pointers/three-sum.ts           | patterns/two-pointers/three-sum.py            | Sort + two pointers, O(n²) |
 | Sliding Window  | Maximum Average Subarray I                 | patterns/sliding-window/max-average-subarray.ts           | patterns/sliding-window/max-average-subarray.py            | Fixed-size sliding window to maintain the sum of the current subarray O(n) |
+| Sliding Window  | Lenght of Maximum Substring                 | patterns/sliding-window/length-of-maximum-substring.ts           | patterns/sliding-window/length-of-maximum-substring.py            | se a sliding window to track the current substring without repeating characters O(n) |
 
 ## Notes
 - Problems may appear multiple times under different patterns.
