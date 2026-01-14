@@ -113,6 +113,7 @@ Each problem must include:
   - Hash Map (Complement Lookup)
   - Two Pointers
   - Sliding Windows
+  - Stack
 
 ---
 
