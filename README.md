@@ -114,6 +114,7 @@ Each problem must include:
   - Two Pointers
   - Sliding Windows
   - Stack
+  - Greedy Algorithms
 
 ---
 
