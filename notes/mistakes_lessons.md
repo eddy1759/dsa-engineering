@@ -44,3 +44,8 @@
 
 3. Missed early termination
    - Sorted array allows break when nums[i] > 0
+
+# MIN STACK - TypeScript & Python
+- Date: 2026-01-17
+- Mistake: Forgot to implement auxiliary stack to track minimums.
+- Lesson: Always review problem constraints and hints before coding.
