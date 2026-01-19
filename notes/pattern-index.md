@@ -18,6 +18,7 @@
 | Stack  | Valid Parentheses              | patterns/stack/valid-arenthesis.ts           | patterns/stack/valid-arenthesis.py            | Use stack to track opening brackets and ensure they are properly closed. O(n) |
 | Greedy Algorithms  | Largest Merge              | patterns/greedy/largest-merge.ts           | patterns/greedy/largest-merge.py            | Use a greedy approach to find the largest merge of two strings. O(n + m) |
 | Stack  | Min Stack              | patterns/stack/min-stack/min-stack.ts           | patterns/stack/min-stack/min-stack.py            | Use an auxiliary stack to keep track of the minimums. O(n) |
+| Stack (Monotonic)  | Daily Temperature              | patterns/stack/daily-temperature.ts           | patterns/stack/daily-temperature.py            | Last unresolved element decides next action. O(n) |
 
 ## Notes
 - Problems may appear multiple times under different patterns.
