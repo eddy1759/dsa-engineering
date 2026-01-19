@@ -12,3 +12,4 @@
 | 2026-01-14 | Valid Parentheses            | TS + Python   | Stack       | Use stack to track opening brackets and ensure they are properly closed. O(n) |
 | 2026-01-16 | Largest Merge            | TS + Python   | Greedy Algorithms       | Use a greedy approach to find the largest merge of two strings. O(n + m) |
 | 2026-01-17 | Min Stack            | TS + Python   | Stack       | Use an auxiliary stack to keep track of the minimums. O(n) |
+| 2026-01-19 | Daily Temperature            | TS + Python   | Stack (Monotonic)    | Last unresolved element decides next action. O(n) |
