@@ -20,6 +20,7 @@
 | Stack  | Min Stack              | patterns/stack/min-stack/min-stack.ts           | patterns/stack/min-stack/min-stack.py            | Use an auxiliary stack to keep track of the minimums. O(n) |
 | Stack (Monotonic)  | Daily Temperature              | patterns/stack/daily-temperature.ts           | patterns/stack/daily-temperature.py            | Last unresolved element decides next action. O(n) |
 | Stack (Monotonic)  | Largest Rectangle in Histogram              | patterns/stack/largest-rectangle-histogram.ts           | patterns/stack/largest-rectangle-histogram.py            | Use a stack to keep track of indices of the histogram bars. O(n) |
+| Greedy  | Best Time to Buy and Sell Stock             | patterns/greedy/best-time-buy-sell-stock.ts           | patterns/greedy/best-time-buy-sell-stock.py            | Use a greedy approach to find the maximum profit. O(n) |
 
 ## Notes
 - Problems may appear multiple times under different patterns.
