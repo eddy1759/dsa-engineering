@@ -1,5 +1,4 @@
 # Leetcode 84: Largest Rectangle in Histogram
-# Leetcode 84: Largest Rectangle in Histogram
 # Pattern: Stack
 # Stack Type: Monotonic
 
