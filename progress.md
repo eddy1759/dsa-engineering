@@ -14,3 +14,4 @@
 | 2026-01-17 | Min Stack            | TS + Python   | Stack       | Use an auxiliary stack to keep track of the minimums. O(n) |
 | 2026-01-19 | Daily Temperature            | TS + Python   | Stack (Monotonic)    | Last unresolved element decides next action. O(n) |
 | 2026-01-20 | Largest Rectangle in Histogram            | TS + Python   | Stack (Monotonic)    | Use a stack to keep track of indices of the histogram bars. O(n) |
+| 2026-01-22 | Best Time to Buy and Sell Stock           | TS + Python   | Greedy       | Use a greedy approach to find the maximum profit. O(n) |
