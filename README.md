@@ -115,6 +115,7 @@ Each problem must include:
   - Sliding Windows
   - Stack
   - Greedy Algorithms
+  - Binary Search
 
 ---
 
