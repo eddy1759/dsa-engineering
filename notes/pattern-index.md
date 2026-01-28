@@ -21,6 +21,9 @@
 | Stack (Monotonic)  | Daily Temperature              | patterns/stack/daily-temperature.ts           | patterns/stack/daily-temperature.py            | Last unresolved element decides next action. O(n) |
 | Stack (Monotonic)  | Largest Rectangle in Histogram              | patterns/stack/largest-rectangle-histogram.ts           | patterns/stack/largest-rectangle-histogram.py            | Use a stack to keep track of indices of the histogram bars. O(n) |
 | Greedy  | Best Time to Buy and Sell Stock             | patterns/greedy/best-time-buy-sell-stock.ts           | patterns/greedy/best-time-buy-sell-stock.py            | Use a greedy approach to find the maximum profit. O(n) |
+| Binary Search  | Binary Search           | patterns/binary-search/binary-search.ts           | patterns/binary-search/binary-search.py            | Use a binary search approach to find the target element. O(log n) |
+| Binary Search  | Search Insert Position           | patterns/binary-search/search-insert/search-insert-position.ts           | patterns/binary-search/search-insert/search-insert-position.py            | Use a binary search approach to find the target element for boundary correctness O(log n) |
+| Binary Search  | Find First and Last Position of Element in Sorted Array           | patterns/binary-search/search-range/find-first-last-position.ts           | patterns/binary-search/search-range/find-first-last-position.py            | Use binary search to find the first and last positions of the target element. O(log n) |
 
 ## Notes
 - Problems may appear multiple times under different patterns.
