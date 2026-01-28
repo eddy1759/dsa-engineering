@@ -15,3 +15,6 @@
 | 2026-01-19 | Daily Temperature            | TS + Python   | Stack (Monotonic)    | Last unresolved element decides next action. O(n) |
 | 2026-01-20 | Largest Rectangle in Histogram            | TS + Python   | Stack (Monotonic)    | Use a stack to keep track of indices of the histogram bars. O(n) |
 | 2026-01-22 | Best Time to Buy and Sell Stock           | TS + Python   | Greedy       | Use a greedy approach to find the maximum profit. O(n) |
+| 2026-01-23 | Binary Search           | TS + Python   | Binary Search       | Use a binary search approach to find the target element. O(log n) |
+| 2026-01-27 | Search Insert Position           | TS + Python   | Binary Search       | Use a binary search approach to find the target element for boundary correctness O(log n) |
+| 2026-01-28 | Find First and Last Position of Element in Sorted Array           | TS + Python   | Binary Search       | Use binary search to find the first and last positions of the target element. O(log n) |
