@@ -24,6 +24,7 @@
 | Binary Search  | Binary Search           | patterns/binary-search/binary-search.ts           | patterns/binary-search/binary-search.py            | Use a binary search approach to find the target element. O(log n) |
 | Binary Search  | Search Insert Position           | patterns/binary-search/search-insert/search-insert-position.ts           | patterns/binary-search/search-insert/search-insert-position.py            | Use a binary search approach to find the target element for boundary correctness O(log n) |
 | Binary Search  | Find First and Last Position of Element in Sorted Array           | patterns/binary-search/search-range/find-first-last-position.ts           | patterns/binary-search/search-range/find-first-last-position.py            | Use binary search to find the first and last positions of the target element. O(log n) |
+| Binary Search  | Search in Rotated Sorted Array        | patterns/binary-search/search-rotated/search-in-rotated-sorted-array.ts           | patterns/binary-search/search-rotated/search-in-rotated-sorted-array.py            | Use binary search to find the target element in a rotated sorted array. O(log n) |
 
 ## Notes
 - Problems may appear multiple times under different patterns.
