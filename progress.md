@@ -18,3 +18,4 @@
 | 2026-01-23 | Binary Search           | TS + Python   | Binary Search       | Use a binary search approach to find the target element. O(log n) |
 | 2026-01-27 | Search Insert Position           | TS + Python   | Binary Search       | Use a binary search approach to find the target element for boundary correctness O(log n) |
 | 2026-01-28 | Find First and Last Position of Element in Sorted Array           | TS + Python   | Binary Search       | Use binary search to find the first and last positions of the target element. O(log n) |
+| 2026-01-30 | Search in Rotated Sorted Array        | TS + Python   | Binary Search       | Use binary search to find the target element in a rotated sorted array. O(log n) |
